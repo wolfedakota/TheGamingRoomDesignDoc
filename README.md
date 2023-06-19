@@ -22,7 +22,8 @@ If you could choose one part of your work on these documents to revise, what wou
 
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
-
+**The user's needs served as the base of which the software design document was built. I implemented these needs throughout my document, specifically in the sections where I compared the benefits and downsides of each operating system. I ultimately decided that Windows was the best operating system suited for the user's needs.**
 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
+**I approached the software design document with the user's needs in mind first. I went through each section in the document trying to come up with the best possible outcome for the user. In the future, I should continue to keep the user's best interest in mind, and avoid letting personal preference, or bias, have an overbearing influence.**
